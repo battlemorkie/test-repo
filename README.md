@@ -1,2 +1,2 @@
 # test-repo
-Account Test
+Github account setup tutorial
